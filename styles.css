@@ -1,0 +1,19 @@
+body {
+    display: grid;
+    background-color: #CBD4C2;
+}
+
+form {
+    display: grid;
+}
+
+.search-bar {
+    justify-self: center;
+    margin-top: 10%;
+    width: 30%;
+    height: 15%;
+    border-radius: 15px;
+    border-color: #DBEBC0;
+    padding: 5px;
+    font-size: large;
+}
